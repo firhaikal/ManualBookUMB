@@ -1,10 +1,14 @@
 - title: "Admin"
   children:
-    - title: 
-      url: ""
+    - title: Berita
+      url: "berita"
+    - title: Koleksi
+      url: "koleksi"
 - title: "User"
   children:
-    - title: 
-      url: ""
+    - title: Pencarian
+      url: "pencarian_koleksi_user"
+    - title: Usulan Koleksi
+      url: "usulan_koleksi_user"
 - title: "About"
   url: "about"
