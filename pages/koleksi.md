@@ -1,6 +1,6 @@
 ---
 title: Koleksi
-permalink: koleksi
+permalink: /koleksi
 ---
 
 # **Koleksi**

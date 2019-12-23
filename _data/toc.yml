@@ -39,13 +39,11 @@
     - title: Login User 
       url: "login_user"
     - title: Beranda
-      url: "beranda"
+      url: "beranda-user"
     - title: Riwayat Peminjaman 
       url: "riwayat_peminjaman"
     - title: Artikel 
       url: "artikel"
-    - title: Usulan Koleksi 
-      url: "usulan_koleksi"
     - title: Pencarian
       url: "pencarian_koleksi_user"
     - title: Usulan Koleksi

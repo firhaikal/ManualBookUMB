@@ -1,6 +1,6 @@
 ---
 title: Pengadaan
-permalink: /procurement/
+permalink: /pengadaan
 ---
 
 # Modul Pengadaan

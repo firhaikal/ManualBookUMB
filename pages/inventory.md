@@ -1,6 +1,6 @@
 ---
 title: Inventaris
-permalink: /inventory/
+permalink: /inventaris
 ---
 
 # Modul Inventaris

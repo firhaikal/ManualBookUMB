@@ -1,6 +1,6 @@
 ---
 title : Beranda User
-permalink : /beranda-user/
+permalink : /beranda-user
 ---
 
 # Beranda User

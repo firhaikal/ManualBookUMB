@@ -1,6 +1,6 @@
 ---
 title: Sirkulasi
-permalink: /circulation/
+permalink: /sirkulasi
 ---
 
 # Modul Sirkulasi

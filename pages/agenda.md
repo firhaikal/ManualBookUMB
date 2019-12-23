@@ -1,6 +1,6 @@
 ---
 title : Agenda
-permalink : /agenda/
+permalink : /agenda
 ---
 
 # Agenda

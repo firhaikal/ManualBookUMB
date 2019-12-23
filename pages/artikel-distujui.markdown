@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Artikel
-permalink: /artikel/
+permalink: /artikel
 ---
 
 # Modul Artikel

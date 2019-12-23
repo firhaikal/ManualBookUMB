@@ -1,6 +1,6 @@
 ---
 title: Data Referensi
-permalink: /master/
+permalink: /data-ref
 ---
 
 # Modul Data Referensi
