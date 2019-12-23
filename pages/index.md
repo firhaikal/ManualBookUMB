@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jekyll Documentation
+title: Manual Book
 permalink: /
 ---
 

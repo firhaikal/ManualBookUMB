@@ -32,9 +32,11 @@
       url: "laporan"
     - title: Cetak
       url: "cetak"
+    - title: Logout Admin
+      url: "logout"
 - title: "User"
   children:
-  - title: Login User 
+    - title: Login User 
       url: "login_user"
     - title: Beranda
       url: "beranda"
