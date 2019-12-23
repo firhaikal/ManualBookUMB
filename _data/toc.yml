@@ -1,11 +1,49 @@
 - title: "Admin"
   children:
-    - title: Berita
-      url: "berita"
+    - title: Beranda
+      url: "beranda-admin"
     - title: Koleksi
       url: "koleksi"
+    - title: Digital Library
+      url: "digilib"
+    - title: Sirkulasi
+      url: "sirkulasi"
+    - title: Diseminasi
+      url: "diseminasi"
+    - title: Inventaris
+      url: "inventaris"
+    - title: Pengiriman Koleksi
+      url: "pengiriman-koleksi"
+    - title: Pengadaan
+      url: "pengadaan"
+    - title: Data Referensi
+      url: "data-ref"
+    - title: Konfigurasi
+      url: "konfigurasi"
+    - title: Berita
+      url: "berita"
+    - title: Agenda
+      url: "agenda"
+    - title: Keanggotaan
+      url: "keanggotaan"
+    - title: Petugas
+      url: "petugas"
+    - title: Laporan
+      url: "laporan"
+    - title: Cetak
+      url: "cetak"
 - title: "User"
   children:
+  - title: Login User 
+      url: "login_user"
+    - title: Beranda
+      url: "beranda"
+    - title: Riwayat Peminjaman 
+      url: "riwayat_peminjaman"
+    - title: Artikel 
+      url: "artikel"
+    - title: Usulan Koleksi 
+      url: "usulan_koleksi"
     - title: Pencarian
       url: "pencarian_koleksi_user"
     - title: Usulan Koleksi
