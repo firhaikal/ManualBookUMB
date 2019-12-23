@@ -1,10 +1,20 @@
+- title: "Cara Mengakses"
+  url: "tutorial-mengakses-umb"
+
 - title: "Admin"
   children:
-    - title: 
-      url: ""
+    - title: "Beranda"
+      url: "beranda-admin"
+    - title: "Diseminasi"
+      url: "diseminasi" 
+    - title: "Petugas"
+      url: "petugas" 
+
 - title: "User"
   children:
     - title: 
       url: ""
+
 - title: "About"
   url: "about"
+
